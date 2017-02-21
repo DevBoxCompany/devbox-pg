@@ -1,6 +1,6 @@
 {
 	"name": "devbox-pg",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Encapsular PG-DB para chamadas de procedures",
 	"main": "./lib/index.js",
 	"scripts": {},
