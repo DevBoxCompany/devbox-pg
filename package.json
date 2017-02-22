@@ -1,7 +1,7 @@
 {
 	"name": "devbox-pg",
-	"version": "0.0.3",
-	"description": "Encapsular PG-DB para chamadas de procedures",
+	"version": "1.0.0",
+	"description": "Encapsulated functions execute procedures for postgres (pg-db).",
 	"main": "./lib/index.js",
 	"scripts": {},
 	"repository": {
