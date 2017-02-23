@@ -1,6 +1,6 @@
 {
 	"name": "devbox-pg",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "Encapsulated functions execute procedures for postgres (pg-db).",
 	"main": "./lib/index.js",
 	"scripts": {},
